@@ -1,0 +1,2 @@
+# Maze Solver, SierpinskiTurtle, and TurtleGraphics
+ A program call MazeSolver that creates a maze and solves the maze on the spot.  <-> A program call Turtle Graphics that draws different designs.The drawings are draw with recursive methods <-> A program that makes Sierpinski Triangles by telling a virtual "turtle"  * how to move around in the window.  The turtle has a "pen".  * If the pen is down when the turtle is moved, it leaves a  * trail.
